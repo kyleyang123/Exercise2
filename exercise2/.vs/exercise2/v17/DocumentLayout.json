@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A78BE4A-EB30-4BFF-A0C6-8B58125288AF}|exercise2\\exercise2.vcxproj|C:\\Users\\Kyle\\Desktop\\exercise2\\exercise2\\exercise2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4A78BE4A-EB30-4BFF-A0C6-8B58125288AF}|exercise2\\exercise2.vcxproj|solutionrelative:exercise2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A78BE4A-EB30-4BFF-A0C6-8B58125288AF}|exercise2\\exercise2.vcxproj|C:\\Users\\Kyle\\Desktop\\exercise2\\exercise2\\exercise2\\unistd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A78BE4A-EB30-4BFF-A0C6-8B58125288AF}|exercise2\\exercise2.vcxproj|solutionrelative:exercise2\\unistd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "unistd.h",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\exercise2\\exercise2\\exercise2\\unistd.h",
+              "RelativeDocumentMoniker": "exercise2\\unistd.h",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\exercise2\\exercise2\\exercise2\\unistd.h",
+              "RelativeToolTip": "exercise2\\unistd.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T01:53:28.101Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "exercise2\\main.c",
               "ToolTip": "C:\\Users\\Kyle\\Desktop\\exercise2\\exercise2\\exercise2\\main.c",
               "RelativeToolTip": "exercise2\\main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAjwKcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-17T01:50:01.427Z",
               "EditorCaption": ""
